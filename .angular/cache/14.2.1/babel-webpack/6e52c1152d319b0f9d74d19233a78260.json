@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Language {\n  constructor(id, name, level, certification, person) {\n    this.id = id;\n    this.name = name;\n    this.level = level;\n    this.certification = certification;\n    this.person = person;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
